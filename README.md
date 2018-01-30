@@ -1,7 +1,7 @@
 # test_docker
 
-#### An example of docker image
-create an image which contains r-base，ncbi-blast-2.2.26+ and a custom Rscript
+## An example of docker image
+create an image which contains r-base，ncbi-blast-2.2.26+ and a custom Rscript<br />
 test file: ~/pheatmap/input/Test.input.xls
 
 ```bash
