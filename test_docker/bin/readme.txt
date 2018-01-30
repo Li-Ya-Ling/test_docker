@@ -1,7 +1,7 @@
 #heatmap_draw说明文档
-'''bash
+
 pheatmap.r --infile input/Test.input.xls --outfile output/
-'''
+
   输入文件/
   |-- *.xls #TPM
     文件格式
